@@ -1,0 +1,12 @@
+{
+  "uuid": "rgb-range-quicksettings@johann.local",
+  "name": "RGB Range Quick Settings",
+  "description": "Switch a monitor's RGB quantization range (Auto, Full or Limited) from Quick Settings, using Mutter's Broadcast RGB support.",
+  "shell-version": [
+    "49",
+    "50",
+    "51"
+  ],
+  "version-name": "1.0.0",
+  "url": "https://github.com/Yofuness/gnome-rbg-range"
+}

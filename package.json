@@ -1,0 +1,15 @@
+{
+  "name": "rgb-range-quicksettings",
+  "private": true,
+  "type": "module",
+  "license": "GPL-2.0-or-later",
+  "scripts": {
+    "lint": "eslint .",
+    "pack": "gnome-extensions pack src --force --out-dir=."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "globals": "^15.0.0"
+  }
+}
