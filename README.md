@@ -17,19 +17,19 @@ If an output's driver doesn't expose it, the menu shows
 
 ```sh
 gnome-extensions pack src --force
-gnome-extensions install --force rgb-range-quicksettings@johann.local.shell-extension.zip
+gnome-extensions install --force rgb-range-quicksettings@yofuness.github.io.shell-extension.zip
 ```
 
 Log out and back in, then enable it:
 
 ```sh
-gnome-extensions enable rgb-range-quicksettings@johann.local
+gnome-extensions enable rgb-range-quicksettings@yofuness.github.io
 ```
 
 ## Uninstall
 
 ```sh
-gnome-extensions uninstall rgb-range-quicksettings@johann.local
+gnome-extensions uninstall rgb-range-quicksettings@yofuness.github.io
 ```
 
 ## License

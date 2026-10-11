@@ -24,8 +24,7 @@ Logs: `journalctl -f -o cat /usr/bin/gnome-shell`
 
 ## Before submitting to EGO (TODO)
 
-- [ ] Change `uuid` away from `@johann.local`. The namespace must be a domain
-      you control or e.g. `<github-user>.github.io`. Update README commands too.
+- [x] `uuid` is `rgb-range-quicksettings@yofuness.github.io`.
 - [x] `url` added to metadata.json.
 - [ ] Bump `shell-version` only to released versions (max one dev release).
 
